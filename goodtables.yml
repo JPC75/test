@@ -1,0 +1,3 @@
+files:
+  - source: wind.csv
+    schema: schema.json
