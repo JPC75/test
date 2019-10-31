@@ -3,7 +3,10 @@
     {
       "name": "operator_name",
       "title": "Operator's name of the vehicule",
-      "type": "string"
+      "type": "string",
+       "constraints": {
+      "required": "true"
+      }
     },
     {
       "name": "marker_time",
