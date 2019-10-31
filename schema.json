@@ -43,7 +43,7 @@
       "type": "string",
        "constraints": {
       "required": true,
-      "enum": ['parking', 'riding', 'nok', 'removed']
+      "enum": ["parking", "riding", "nok", "removed"]
       }
       },
     {
