@@ -42,7 +42,8 @@
       "name": "vehicle_activity",
       "type": "string",
        "constraints": {
-      "required": true
+      "required": true,
+      "enum": [parking, riding, nok, removed]
       }
       },
     {
