@@ -5,7 +5,7 @@
       "title": "Operator's name of the vehicule",
       "type": "string",
        "constraints": {
-      "required": "true"
+      "required": true
       }
     },
     {
