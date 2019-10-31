@@ -50,7 +50,8 @@
       "name": "vehicle_type",
       "type": "string",
        "constraints": {
-      "required": true
+      "required": true,
+      "enum": ["scooter", "motorscoot", "bike"]
       }
     }
   ]
