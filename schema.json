@@ -11,28 +11,46 @@
     {
       "name": "marker_time",
       "type": "datetime",
-      "description": "Last datetime for a vehicule at this geograhic position "
+      "description": "Last datetime for a vehicule at this geograhic position ",
+       "constraints": {
+      "required": true
+      }
     },
     {
       "name": "vehicle_id",
       "type": "string",
-      "format": "uuid"
+      "format": "uuid",
+       "constraints": {
+      "required": true
+      }
       },
     {
       "name": "longitude_x",
-      "type": "number"
+      "type": "number",
+       "constraints": {
+      "required": true
+      }
       },
     {
       "name": "latitude_y",
-      "type": "number"
+      "type": "number",
+       "constraints": {
+      "required": true
+      }
       },
     {
       "name": "vehicle_activity",
-      "type": "string"
+      "type": "string",
+       "constraints": {
+      "required": true
+      }
       },
     {
       "name": "vehicle_type",
-      "type": "string"
+      "type": "string",
+       "constraints": {
+      "required": true
+      }
     }
   ]
 }
