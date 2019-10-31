@@ -19,9 +19,9 @@
     {
       "name": "vehicle_id",
       "type": "string",
-      "format": "uuid",
        "constraints": {
-      "required": true
+          "required": true,
+          "unique": true
       }
       },
     {
