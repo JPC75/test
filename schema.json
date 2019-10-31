@@ -12,7 +12,7 @@
     },
     {
       "name": "vehicle_id",
-      "type": "string",
+      "type": "string"
       },
     {
       "name": "longitude_x",
