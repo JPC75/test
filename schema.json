@@ -16,11 +16,11 @@
       "format": "uuid"
       },
     {
-      "name": "longitude-x",
+      "name": "longitude_x",
       "type": "number"
       },
     {
-      "name": "latitude-y",
+      "name": "latitude_y",
       "type": "number"
       },
     {
