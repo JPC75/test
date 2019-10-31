@@ -1,3 +1,3 @@
 operator_name;marker_time;vehicle_id;longitude_x;latitude_y;vehicle_activity;vehicle_type
-;2019-10-31T15:16:11Z;110e8400-e29b-11d4-a716-446655440000;2.33592;48.871082;parking;scooter
+WIND;2019-10-31T15:16:11Z;110e8400-e29b-11d4-a716-446655440000;2.33592;48.871082;parking;scooter
 WIND;2019-10-31T15:16:11Z;110e8400-e29b-11d4-a716-446655440001;2.335178;48.868282;parking;scooter
