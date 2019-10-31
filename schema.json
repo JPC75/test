@@ -11,7 +11,7 @@
     {
       "name": "marker_time",
       "type": "datetime",
-      "description": "Last datetime for a vehicule at this geograhic position "
+      "description": "Last datetime for a vehicule at this geograhic position ",
       "constraints": {
         "required": true
       }
