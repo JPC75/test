@@ -53,7 +53,6 @@
       "required": "true",
       "enum": ["scooter", "motorscoot", "bike"]
       }
-      }
     }
   ]
 }
